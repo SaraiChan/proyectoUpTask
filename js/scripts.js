@@ -281,6 +281,7 @@ function cambiarEstadoTarea(tarea, estado) {
     }
     //Enviar la peticion
     xhr.send(datos);
+    //subiendo cambios 
 }
 
 // Elimina las tareas de la base de datos (SE CREA LA FUNCIÓN eliminarTareaBD VIDEO33 ASCC)
