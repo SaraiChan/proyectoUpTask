@@ -67,7 +67,7 @@ function guardarProyectoDB(nombreProyecto) {
                     ${proyecto}
                     </a>
                     `;
-                    //Agregar al html
+                    //Agregar al html!!
                     listaProyectos.appendChild(nuevoProyecto);
 
                     // enviar alerta
